@@ -2,7 +2,7 @@
   "name": "pack-javascript",
   "displayName": "Basic JavaScript Extension Pack",
   "description": "Basic extension which are used for JavaScript Development",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "endverbraucher",
   "engines": {
     "vscode": "^1.26.0"
