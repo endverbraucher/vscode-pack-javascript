@@ -1,0 +1,28 @@
+{
+    "name": "pack-javascript",
+    "displayName": "Pack JavaScript",
+    "description": "Basic extension which are used for JavaScript Development",
+    "version": "0.0.1",
+    "publisher": "endverbraucher",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "icon": "icon.png",
+    "extensionPack": [
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "dbaeumer.vscode-eslint",
+        "eg2.vscode-npm-script",
+        "esbenp.prettier-vscode",
+        "jasonnutter.search-node-modules",
+        "jpoissonnier.vscode-styled-components",
+        "pflannery.vscode-versionlens",
+        "richie5um2.vscode-sort-json",
+        "waderyan.nodejs-extension-pack",
+        "wix.vscode-import-cost",
+        "xabikos.JavaScriptSnippets"
+    ]
+}
