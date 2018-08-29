@@ -1,6 +1,6 @@
 {
   "name": "pack-javascript",
-  "displayName": "Pack JavaScript",
+  "displayName": "Basic JavaScript Extension Pack",
   "description": "Basic extension which are used for JavaScript Development",
   "version": "0.0.1",
   "publisher": "endverbraucher",
@@ -11,6 +11,9 @@
     "Extension Packs"
   ],
   "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/endverbraucher/vscode-pack-javascript.git"
+  },
   "extensionPack": [
     "waderyan.nodejs-extension-pack",
     "burkeholland.react-food-truck",
