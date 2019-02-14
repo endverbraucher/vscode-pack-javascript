@@ -27,6 +27,7 @@
     "mariusschulz.yarn-lock-syntax",
     "lxspandora.vscode-styled-components-snippets",
     "paulmolluzzo.convert-css-in-js",
-    "bierner.lit-html"
+    "bierner.lit-html",
+    "dsznajder.es7-react-js-snippets"
   ]
 }
