@@ -21,6 +21,8 @@
     "pflannery.vscode-versionlens",
     "richie5um2.vscode-sort-json",
     "wix.vscode-import-cost",
-    "jpoissonnier.vscode-styled-components"
+    "jpoissonnier.vscode-styled-components",
+    "dbaeumer.vscode-eslint",
+    "xabikos.JavaScriptSnippets"
   ]
 }
