@@ -23,6 +23,10 @@
     "wix.vscode-import-cost",
     "jpoissonnier.vscode-styled-components",
     "dbaeumer.vscode-eslint",
-    "xabikos.JavaScriptSnippets"
+    "xabikos.JavaScriptSnippets",
+    "mariusschulz.yarn-lock-syntax",
+    "lxspandora.vscode-styled-components-snippets",
+    "paulmolluzzo.convert-css-in-js",
+    "bierner.lit-html"
   ]
 }

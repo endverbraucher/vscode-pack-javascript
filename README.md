@@ -16,3 +16,8 @@ This extension pack contains all the extensions I use for development of JavaScr
 * [import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 * [styled components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+* [xabikos.JavaScriptSnippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+* [mariusschulz.yarn-lock-syntax](https://marketplace.visualstudio.com/items?itemName=mariusschulz.yarn-lock-syntax)
+* [lxspandora.vscode-styled-components-snippets](https://marketplace.visualstudio.com/items?itemName=lxspandora.vscode-styled-components-snippets)
+* [paulmolluzzo.convert-css-in-js](https://marketplace.visualstudio.com/items?itemName=paulmolluzzo.convert-css-in-js)
+* [bierner.lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html)
